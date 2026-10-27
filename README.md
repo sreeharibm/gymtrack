@@ -14,9 +14,7 @@ Sreehari B M -12622161
 # 🔗 Live Link
 
 **Live GitHub Pages Deployment:**  
-
-https://sreeharibm.github.io/Gymtracker-project/
----
+https://sreeharibm.github.io/gymtrack/
 
 ## Project Features
 
